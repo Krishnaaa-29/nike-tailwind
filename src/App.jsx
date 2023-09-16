@@ -1,14 +1,15 @@
 import {
   CustomerReviews,
-  Footer,
   Hero,
-  Navbar,
   PopularProducts,
   Services,
   SpecialOffer,
   Subscribe,
   SuperQuality,
-} from "./components";
+  Footer,
+} from "./sections";
+
+import { Navbar } from "./components";
 
 const App = () => {
   return (
